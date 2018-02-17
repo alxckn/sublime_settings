@@ -5,22 +5,25 @@
 	],
 	"installed_packages":
 	[
+		"AdvancedNewFile",
 		"All Autocomplete",
 		"CSS3",
 		"Emmet",
 		"ERB Snippets",
 		"Git",
+		"GitGutter",
 		"Indent XML",
 		"Markdown Preview",
-		"Material Theme",
 		"Package Control",
 		"Ruby Block Converter",
 		"Ruby Completions",
 		"Sass",
 		"SideBarEnhancements",
 		"SublimeLinter-rubocop",
+		"Theme - Primer",
 		"Unicode Character Highlighter",
 		"xpath",
+		"Zeal",
 		"Zip Browser"
 	]
 }
