@@ -24,6 +24,7 @@
 	"hot_exit": false,
 	"ignored_packages":
 	[
+		"CSS",
 		"Vintage"
 	],
 	"index_files": true,
@@ -42,5 +43,7 @@
 	"theme_primer_tabs_large": true,
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
-	"word_separators": "./\\()\"'-:,.;<>~@#$%^&*|+=[]{}`~"
+	"word_separators": "./\\()\"'-:,.;<>~@#$%^&*|+=[]{}`~",
+	"auto_complete_commit_on_tab": true,
+	"auto_complete_with_fields": true,
 }
