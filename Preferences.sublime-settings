@@ -11,16 +11,21 @@
 	],
 	"auto_complete": true,
 	"auto_complete_commit_on_tab": true,
-	"color_scheme": "Packages/Theme - Primer/primer.dark.tmTheme",
+	"auto_complete_with_fields": true,
+	"color_scheme": "Packages/Theme - Monokai Pro/Monokai Pro (Filter Octagon).tmTheme",
 	"copy_with_empty_selection": true,
 	"ensure_newline_at_eof_on_save": true,
 	"folder_exclude_patterns":
 	[
 		"tmp",
 		"venv",
-		"__pycache__"
+		"__pycache__",
+		"log",
+		"coverage",
+		"node_modules",
+		"public/packs"
 	],
-	"font_size": 8,
+	"font_size": 10,
 	"hot_exit": false,
 	"ignored_packages":
 	[
@@ -35,7 +40,7 @@
 	],
 	"show_full_path": false,
 	"tab_size": 2,
-	"theme": "Primer Dark.sublime-theme",
+	"theme": "Monokai Pro (Filter Octagon).sublime-theme",
 	"theme_primer_sidebar_font_normal": true,
 	"theme_primer_sidebar_tree_normal": true,
 	"theme_primer_tab_active_blue": true,
@@ -43,7 +48,5 @@
 	"theme_primer_tabs_large": true,
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
-	"word_separators": "./\\()\"'-:,.;<>~@#$%^&*|+=[]{}`~",
-	"auto_complete_commit_on_tab": true,
-	"auto_complete_with_fields": true,
+	"word_separators": "./\\()\"'-:,.;<>~@#$%^&*|+=[]{}`~"
 }

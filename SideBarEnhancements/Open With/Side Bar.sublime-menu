@@ -3,6 +3,21 @@
 		"children":
 		[
 
+
+			//base
+			{
+				"caption": "Nemo",
+				"id": "side-bar-files-open-with-nemo",
+
+				"command": "side_bar_files_open_with",
+				"args": {
+									"paths": [],
+									"application": "/usr/bin/nemo",
+									"extensions":"",  //any file with these extensions
+									"args":[]
+								},
+				"open_automatically" : false // will close the view/tab and launch the application
+			},
 			//application 1
 			{
 				"caption": "Gimp",
@@ -62,6 +77,20 @@
 				"args": {
 									"paths": [],
 									"application": "/usr/bin/remarkable",
+									"extensions":"md", //any file with extension
+									"args":[]
+						},
+				"open_automatically" : false // will close the view/tab and launch the application
+			},
+			//application 4
+			{
+				"caption": "Ghostwriter",
+				"id": "side-bar-files-open-with-ghostwriter",
+
+				"command": "side_bar_files_open_with",
+				"args": {
+									"paths": [],
+									"application": "/usr/bin/ghostwriter",
 									"extensions":"md", //any file with extension
 									"args":[]
 						},

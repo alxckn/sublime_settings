@@ -2,7 +2,7 @@
   <content><![CDATA[
 begin
   $SELECTION
-rescue
+rescue Exception => e
   byebug
 end
 ]]></content>

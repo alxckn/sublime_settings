@@ -8,21 +8,22 @@
 		"AdvancedNewFile",
 		"All Autocomplete",
 		"CSS3",
+		"DotENV",
 		"Emmet",
 		"ERB Snippets",
 		"Git",
 		"GitGutter",
 		"Indent XML",
-		"Markdown Preview",
+		"Maybs Quit",
 		"Package Control",
-		"Ruby Block Converter",
-		"Ruby Completions",
 		"SideBarEnhancements",
+		"SublimeLinter",
 		"SublimeLinter-rubocop",
-		"Theme - Primer",
+		"Theme - Monokai Pro",
+		"TypeScript",
 		"Unicode Character Highlighter",
+		"Vue Syntax Highlight",
 		"xpath",
-		"Zeal",
-		"Zip Browser"
+		"Zeal"
 	]
 }
