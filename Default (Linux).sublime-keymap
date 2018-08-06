@@ -5,4 +5,6 @@
     { "keys": ["alt+m"], "command": "markdown_preview", "args": {"target": "browser", "parser":"markdown"} },
     { "keys": ["super+alt+r"], "command": "side_bar_rename" },
     { "keys": ["super+alt+m"], "command": "side_bar_move" },
+    { "keys": ["ctrl+&"], "command": "insert_snippet", "args": {"name": "Packages/User/themify_css.sublime-snippet"} },
+    { "keys": ["ctrl+é"], "command": "insert_snippet", "args": {"name": "Packages/User/themed_var.sublime-snippet"} }
 ]
