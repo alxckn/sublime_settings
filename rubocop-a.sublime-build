@@ -1,0 +1,5 @@
+{
+  "cmd"       : ["rubocop", "-a", "$file"],
+  "selector"  : "source.ruby",
+  "quiet"     : true
+}
