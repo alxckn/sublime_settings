@@ -12,7 +12,7 @@
 	"auto_complete": true,
 	"auto_complete_commit_on_tab": true,
 	"auto_complete_with_fields": true,
-	"color_scheme": "Packages/Theme - Monokai Pro/Monokai Pro (Filter Octagon).tmTheme",
+	"color_scheme": "Monokai Pro (Filter Octagon).sublime-color-scheme",
 	"copy_with_empty_selection": true,
 	"ensure_newline_at_eof_on_save": true,
 	"folder_exclude_patterns":
