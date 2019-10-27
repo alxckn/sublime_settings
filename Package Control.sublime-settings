@@ -7,12 +7,17 @@
 	[
 		"AdvancedNewFile",
 		"All Autocomplete",
+		"Case Conversion",
 		"CSS3",
 		"DotENV",
 		"Emmet",
 		"ERB Snippets",
 		"Git",
+		"GitGutter",
 		"Indent XML",
+		"JSON Reindent",
+		"MarkdownLivePreview",
+		"MarkdownPreview",
 		"Maybs Quit",
 		"Package Control",
 		"RSpec",
@@ -24,7 +29,9 @@
 		"TypeScript",
 		"Unicode Character Highlighter",
 		"Vue Syntax Highlight",
+		"Vuetify",
 		"xpath",
+		"YAML Nav",
 		"Zeal"
 	]
 }

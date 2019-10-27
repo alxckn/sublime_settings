@@ -1,0 +1,5 @@
+{
+  "cmd"       : ["$folder/bin/rails", "test", "$file"],
+  "selector"  : "source.ruby",
+  "quiet"     : true
+}

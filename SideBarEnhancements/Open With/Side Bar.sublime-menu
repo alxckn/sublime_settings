@@ -6,6 +6,19 @@
 
 			//base
 			{
+				"caption": "Nautilus",
+				"id": "side-bar-files-open-with-nautilus",
+
+				"command": "side_bar_files_open_with",
+				"args": {
+									"paths": [],
+									"application": "/usr/bin/nautilus",
+									"extensions":"",  //any file with these extensions
+									"args":[]
+								},
+				"open_automatically" : false // will close the view/tab and launch the application
+			},
+			{
 				"caption": "Nemo",
 				"id": "side-bar-files-open-with-nemo",
 
@@ -28,6 +41,19 @@
 									"paths": [],
 									"application": "/usr/bin/gimp",
 									"extensions":"psd|png|jpg|jpeg",  //any file with these extensions
+									"args":[]
+								},
+				"open_automatically" : false // will close the view/tab and launch the application
+			},
+			{
+				"caption": "Inkscape",
+				"id": "side-bar-files-open-with-inkscape",
+
+				"command": "side_bar_files_open_with",
+				"args": {
+									"paths": [],
+									"application": "/usr/bin/inkscape",
+									"extensions":"svg",  //any file with these extensions
 									"args":[]
 								},
 				"open_automatically" : false // will close the view/tab and launch the application

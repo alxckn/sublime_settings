@@ -12,21 +12,31 @@
 	"auto_complete": true,
 	"auto_complete_commit_on_tab": true,
 	"auto_complete_with_fields": true,
-	"color_scheme": "Monokai Pro (Filter Octagon).sublime-color-scheme",
+	"binary_file_patterns":
+	[
+		".git/*",
+		"log/*",
+		"coverage/*",
+		"node_modules/*",
+		"public/*packs/*",
+		"public/packs-test*",
+		"public/assets/*",
+		"public/system/*",
+		"storage/*",
+		"tmp/*",
+		"vendor/*",
+		"_site/*"
+	],
+	"color_scheme": "Packages/Theme - Monokai Pro/Monokai Pro (Filter Spectrum).sublime-color-scheme",
 	"copy_with_empty_selection": true,
 	"ensure_newline_at_eof_on_save": true,
 	"folder_exclude_patterns":
 	[
-		"tmp",
 		"venv",
-		"__pycache__",
-		"log",
-		"coverage",
-		"node_modules",
-		"public/packs"
+		"__pycache__"
 	],
 	"font_face": "Source Code Pro",
-	"font_size": 11,
+	"font_size": 9,
 	"highlight_line": true,
 	"hot_exit": false,
 	"ignored_packages":
@@ -42,12 +52,7 @@
 	],
 	"show_full_path": false,
 	"tab_size": 2,
-	"theme": "Monokai Pro (Filter Octagon).sublime-theme",
-	"theme_primer_sidebar_font_normal": true,
-	"theme_primer_sidebar_tree_normal": true,
-	"theme_primer_tab_active_blue": true,
-	"theme_primer_tabs_font_normal": true,
-	"theme_primer_tabs_large": true,
+	"theme": "Monokai Pro (Filter Spectrum).sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"word_separators": "./\\()\"'-:,.;<>~@#$%^&*|+=[]{}`~"

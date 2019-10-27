@@ -1,0 +1,5 @@
+{
+  "shell_cmd" : "cd $folder && ~/.rvm/bin/rvm-auto-ruby -S $packages/User/check_yaml.rb $file",
+  "selector"  : "source.yaml",
+  "quiet"     : true
+}
