@@ -2,6 +2,7 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
+		"Vuetify"
 	],
 	"installed_packages":
 	[
@@ -30,7 +31,6 @@
 		"TypeScript",
 		"Unicode Character Highlighter",
 		"Vue Syntax Highlight",
-		"Vuetify",
 		"xpath",
 		"YAML Nav",
 		"Zeal"

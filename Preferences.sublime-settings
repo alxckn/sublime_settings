@@ -42,7 +42,8 @@
 	"ignored_packages":
 	[
 		"CSS",
-		"Vintage"
+		"Vintage",
+		"Vuetify"
 	],
 	"index_files": true,
 	"remember_open_files": false,
