@@ -1,0 +1,5 @@
+{
+  "cmd": ["~/.scripts/own_pandoc.sh '$file_name' '$file_base_name.pdf' && evince '$file_base_name.pdf'"],
+  "selector": "text.html.markdown",
+  "shell": true
+}

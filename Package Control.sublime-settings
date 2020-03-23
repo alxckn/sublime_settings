@@ -2,7 +2,6 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
-		"Vuetify"
 	],
 	"installed_packages":
 	[
@@ -18,8 +17,6 @@
 		"GitGutter",
 		"Indent XML",
 		"JSON Reindent",
-		"MarkdownLivePreview",
-		"MarkdownPreview",
 		"Maybs Quit",
 		"Package Control",
 		"RSpec",
@@ -27,6 +24,7 @@
 		"SideBarEnhancements",
 		"SublimeLinter",
 		"SublimeLinter-rubocop",
+		"TabsExtra",
 		"Theme - Monokai Pro",
 		"TypeScript",
 		"Unicode Character Highlighter",

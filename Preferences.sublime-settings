@@ -27,7 +27,7 @@
 		"vendor/*",
 		"_site/*"
 	],
-	"color_scheme": "Packages/Theme - Monokai Pro/Monokai Pro (Filter Spectrum).sublime-color-scheme",
+	"color_scheme": "Monokai Pro (Filter Spectrum).sublime-color-scheme",
 	"copy_with_empty_selection": true,
 	"ensure_newline_at_eof_on_save": true,
 	"folder_exclude_patterns":
@@ -36,14 +36,13 @@
 		"__pycache__"
 	],
 	"font_face": "Source Code Pro",
-	"font_size": 9,
+	"font_size": 8,
 	"highlight_line": true,
 	"hot_exit": false,
 	"ignored_packages":
 	[
 		"CSS",
-		"Vintage",
-		"Vuetify"
+		"Vintage"
 	],
 	"index_files": true,
 	"remember_open_files": false,
