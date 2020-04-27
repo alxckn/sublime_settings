@@ -17,9 +17,10 @@
 		"GitGutter",
 		"Indent XML",
 		"JSON Reindent",
+		"LSP",
+		"LSP-vue",
 		"Maybs Quit",
 		"Package Control",
-		"RSpec",
 		"SCSS",
 		"SideBarEnhancements",
 		"SublimeLinter",
@@ -30,7 +31,6 @@
 		"Unicode Character Highlighter",
 		"Vue Syntax Highlight",
 		"xpath",
-		"YAML Nav",
-		"Zeal"
+		"YAML Nav"
 	]
 }
