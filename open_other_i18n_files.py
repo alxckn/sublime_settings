@@ -4,7 +4,7 @@ import sublime_plugin
 
 
 class OpenOtherI18nFilesCommand(sublime_plugin.TextCommand):
-  LOCALES = ['en-US', 'fr-FR', 'de-DE', 'es-ES', 'pt-BR', 'zh-CN']
+  LOCALES = ['en-US', 'fr-FR', 'de-DE', 'es-ES', 'pt-BR', 'zh-CN', 'it-IT']
   LOCALES_FOLDER = '/config/locales/'
 
   def run(self, edit):
