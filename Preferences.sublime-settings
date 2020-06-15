@@ -25,7 +25,8 @@
 		"storage/*",
 		"tmp/*",
 		"vendor/*",
-		"_site/*"
+		"_site/*",
+		"*.svg"
 	],
 	"color_scheme": "Monokai Pro (Filter Spectrum).sublime-color-scheme",
 	"copy_with_empty_selection": true,
