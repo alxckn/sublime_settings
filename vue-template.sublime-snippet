@@ -1,0 +1,29 @@
+<snippet>
+  <content><![CDATA[
+<template>
+  <div></div>
+</template>
+
+<script lang="ts">
+  import Vue from 'vue';
+  import { Component, Prop, Watch } from 'vue-property-decorator';
+  import { Mixins } from 'vue-mixin-decorator';
+  // import { Action } from 'vuex-class';
+
+  import I18nMixin from '(°)/i18n-mixin';
+  interface IMixinInterface extends I18nMixin {};
+
+  export default class $1 extends Mixins<IMixinInterface>(I18nMixin) {
+    $0
+  }
+</script>
+
+<style lang="scss">
+
+</style>
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>vuet</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>text.html.vue</scope>
+</snippet>

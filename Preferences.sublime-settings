@@ -25,10 +25,9 @@
 		"storage/*",
 		"tmp/*",
 		"vendor/*",
-		"_site/*",
-		"*.svg"
+		"_site/*"
 	],
-	"color_scheme": "Monokai Pro (Filter Spectrum).sublime-color-scheme",
+	"color_scheme": "Monokai Pro (Filter Machine).sublime-color-scheme",
 	"copy_with_empty_selection": true,
 	"ensure_newline_at_eof_on_save": true,
 	"file_exclude_patterns":
@@ -59,7 +58,7 @@
 		"__pycache__"
 	],
 	"font_face": "Source Code Pro",
-	"font_size": 10,
+	"font_size": 11,
 	"highlight_line": true,
 	"hot_exit": false,
 	"ignored_packages":
@@ -75,7 +74,7 @@
 	],
 	"show_full_path": false,
 	"tab_size": 2,
-	"theme": "Monokai Pro (Filter Spectrum).sublime-theme",
+	"theme": "Monokai Pro (Filter Machine).sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"word_separators": "./\\()\"'-:,.;<>~@#$%^&*|+=[]{}`~"

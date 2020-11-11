@@ -1,3 +1,6 @@
 {
-  "show_css_completions": false
+	"show_css_completions": false,
+  "abbreviation_preview": false,
+	"telemetry": true,
+	"uid": "e24c8887-9f1a-415f-9b1e-8fd5c5da3009"
 }
