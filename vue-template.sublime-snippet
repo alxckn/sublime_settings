@@ -13,6 +13,7 @@
   import I18nMixin from '(°)/i18n-mixin';
   interface IMixinInterface extends I18nMixin {};
 
+  @Component
   export default class $1 extends Mixins<IMixinInterface>(I18nMixin) {
     $0
   }

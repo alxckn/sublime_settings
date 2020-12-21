@@ -7,5 +7,6 @@
     { "keys": ["super+alt+m"], "command": "side_bar_move" },
     { "keys": ["ctrl+&"], "command": "insert_snippet", "args": {"name": "Packages/User/themify_css.sublime-snippet"} },
     { "keys": ["ctrl+é"], "command": "insert_snippet", "args": {"name": "Packages/User/themed_var.sublime-snippet"} },
-    { "keys": ["ctrl+o"], "command": "open_other_i18n_files" }
+    { "keys": ["ctrl+o"], "command": "open_other_i18n_files" },
+    { "keys": ["ctrl+à"], "command": "focus_side_bar" }
 ]
